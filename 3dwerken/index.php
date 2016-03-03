@@ -35,6 +35,16 @@ Biscuit = ongeglazuur, slechts eenmaal gebakken produkt
 Sommige werkstukken zijn biscuitgebrand en met metaaloxydes gekleurd - dus niet met glazuur afgewerkt.
 De koppen, vogels en zeehonden zijn met uitgerolde fijne of grove chamotte kleidelen opgebouwd al of niet om een papieren kern. Metaaloxydes ( koper-, mangaan-, ijzer-, chroom-, kobal-, tinoxydes) en glazuren bepalen de kleur en oppervlakteaccenten.
 De boekrol heeft als beginvorm een kleiplaat met inscripties; vervolgens gegoten in gips en afdrukt met chamotteklei – deze tekstplaat is rondgezet, gedroogd, biscuit gebakken 800 graden C, geglazuurd en gebakken op 1080 graden C.
+				<a href="http://www.humancreature.nl/3dwerken/metaal">Metaal:</a><br>
+				produkt van gebakken en eventueel geglazuurde klei<br>
+				Diverse sieraden van zilver zijn vervaardigd van gewalsde munten en zilverdraad 925
+Enkele zilveren sieraden – ring en speld - zijn in was gevormd en gegoten in zilver
+De oorclips roodkoper
+De driedimensionale figuren zijn opgebouwd en gesoldeerd van zinkplaat – fantasieletter, schakeling, vis.
+				<a href="http://www.humancreature.nl/3dwerken/hout">:</a><br>
+				peren-, en kersenhout<br>
+				Grote schep -	kersenhout<br>
+				Lepels- perenhout en teak
 			</div>
 		</center>
 	</div>

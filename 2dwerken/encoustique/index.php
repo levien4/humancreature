@@ -26,6 +26,13 @@
 	<div id="content">
 		<center>
 			<?php print file_get_contents("http://www.humancreature.nl/menu.php")?>
+			<div id="galerij">
+				<a href="#enc1" id="galerij">
+					<img src="1a.jpg">
+				</a>
+				<a href="#_" class="lightbox" id="enc1">
+					<img src="1a.jpg">
+				</a>
 		</center>
 	</div>
 </div>

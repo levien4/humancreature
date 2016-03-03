@@ -30,8 +30,8 @@
 				<a href="#druk1" id="galerij">
 					<img src="002.jpg">
 				</a>
-				
-                                <a href="#druk2" id="galerij">
+
+        <a href="#druk2" id="galerij">
 					<img src="001.jpg">
 				</a>
 
@@ -168,13 +168,13 @@
 				<a href="#_" class="lightbox" id="druk3">
 					<img src="goedeherder.JPG">
 				</a>
-				
+
 				<a href="#druk4" id="galerij">
 					<img src="005.jpg">
 				</a>
 				<a href="#_" class="lightbox" id="druk4">
 					<img src="005.jpg">
-				</a> 
+				</a>
 
 				<a href="#_" class="lightbox" id="druk5">
 					<img src="gemengd.JPG">
