@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Home</title>
+<link rel="stylesheet" type="text/css" href="fontsiteopa.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script>
+$("#slideshow > div:gt(0)").hide();
+
+setInterval(function() { 
+  $('#slideshow > div:first')
+    .fadeOut(1000)
+    .next()
+    .fadeIn(1000)
+    .end()
+    .appendTo('#slideshow');
+},  5000);
+</script>
+</head>
+
+<body background="C:\Users\Levien\Pictures\site opa\metaal\bgletterpatroon.jpg">
+
+<div id="container">
+	<div id="header">
+		<h1>
+			<font color="red" face="tempus sans itc">
+				Human Creature:<br>Home
+			</font>
+		</h1>
+	</div>
+
+	<div id="slideshow">
+		<div>
+			<img src="steen.jpg" height="340" width="1100">
+		</div>
+		<div>
+			<img src="encoustique.jpg" height="340" width="1100">
+		</div>
+	</div>
+
+	<div id="content">
+
+	<center>
+
+		<base target="_self">
+			<script language="javascript">
+				function toonmenu(elmnt)
+				{
+				document.all(elmnt).style.visibility="visible"
+				}
+				function verstopmenu(elmnt)
+				{
+				document.all(elmnt).style.visibility="hidden"
+				}
+			</script>
+
+			<table  width="360px">
+				<tr bgcolor="#05022d">
+					<td>
+						<a href="#">Home |</a><br/>
+					</td>
+					<td onmouseover="toonmenu('site2')" onmouseout="verstopmenu('site2')">
+						<a href="#">2d Werken |</a><br/>
+
+						<table class="menu" id="site2">
+							<tr bgcolor=white text=black>
+								<td class="menu">
+									<a href="#">druktechnieken</a>
+								</td>
+							</tr>
+							<tr>
+								<td class="menu">
+									<a href="#">fotografie</a>
+								</td>
+							</tr>
+							<tr>
+								<td class="menu">
+									<a href="#">encoustique</a>
+								</td>
+							</tr>
+						</table>
+					</td>
+
+					<td onmouseover="toonmenu('site3')" onmouseout="verstopmenu('site3')">
+						<a href="#">3d Werken |</a><br/>
+
+						<table class="menu" id="site3">
+							<tr>
+								<td class="menu">
+									<a href="#">beeldhouwwerk</a>
+								</td>
+							</tr>
+							<tr>
+								<td class="menu">
+									<a href="#">metaal</a>
+								</td>
+							</tr>
+							<tr>
+								<td class="menu">
+									<a href="#">sieraden</a>
+								</td>
+							</tr>
+								<tr><td class="menu">
+									<a href="#">keramiek</a>
+								</td>
+							</tr>
+						</table>
+					</td>
+					<td>
+						<a href="">Biografie</a><br/>
+					</td>
+			</table>
+
+	</center>
+	</div>
+
+</body>
+</html>
