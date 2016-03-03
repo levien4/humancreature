@@ -43,7 +43,7 @@ Enkele zilveren sieraden – ring en speld - zijn in was gevormd en gegoten in z
 De oorclips roodkoper
 De driedimensionale figuren zijn opgebouwd en gesoldeerd van zinkplaat – fantasieletter, schakeling, vis.
 				<br><br>
-				<a href="http://www.humancreature.nl/3dwerken/hout">:</a><br>
+				<a href="http://www.humancreature.nl/3dwerken/hout">Hout:</a><br>
 				peren-, en kersenhout<br>
 				Grote schep -	kersenhout<br>
 				Lepels- perenhout en teak
