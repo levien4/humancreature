@@ -13,7 +13,7 @@
 	<div id="header">
 		<h1>
 			<font>
-				Human Creatures:<br><li>Home</li>
+				Human Creature:<br><li>Home</li>
 			</font>
 		</h1>
 	</div>
