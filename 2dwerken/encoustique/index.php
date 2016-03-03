@@ -33,6 +33,14 @@
 				<a href="#_" class="lightbox" id="enc1">
 					<img src="1a.jpeg">
 				</a>
+
+				<a href="#druk25" id="galerij">
+					<img src="21a.jpg">
+				</a>
+				<a href="#_" class="lightbox" id="druk25">
+					<img src="21a.jpg">
+					<br>Olieverf op water(spatwerk), encoustique, sjabloondruk, fingerpainting
+				</a>
 		</center>
 	</div>
 </div>

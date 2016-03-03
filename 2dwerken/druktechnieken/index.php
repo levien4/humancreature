@@ -162,6 +162,7 @@
 				</a>
 				<a href="#_" class="lightbox" id="druk25">
 					<img src="21a.jpg">
+					<br>Olieverf op water(spatwerk), encoustique, sjabloondruk, fingerpainting
 				</a>
 
 				<a href="#_" class="lightbox" id="druk1">
