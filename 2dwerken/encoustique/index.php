@@ -34,10 +34,10 @@
 					<img src="1a.jpeg">
 				</a>
 
-				<a href="#druk25" id="galerij">
+				<a href="#enc2" id="galerij">
 					<img src="21a.jpg">
 				</a>
-				<a href="#_" class="lightbox" id="druk25">
+				<a href="#_" class="lightbox" id="enc2">
 					<img src="21a.jpg">
 					<br>Olieverf op water(spatwerk), encoustique, sjabloondruk, fingerpainting
 				</a>
