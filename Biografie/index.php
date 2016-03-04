@@ -26,7 +26,7 @@
 	<div id="content">
 		<center>
 			<?php print file_get_contents("http://www.humancreature.nl/menu.php")?>
-			<div id="#biografie">
+			<div id="biografie">
 			opleiding:<br>
 <ul>1952-1956 MULO – Utrecht, Assen, Gorinchem
 <li>1956-1961 Pedagogische Academie “Juliana van Stolberg” Gorinchem</li>
