@@ -50,21 +50,21 @@ tentoonstellingen:
 <li>diverse exposities keramiek/druktechn			-	Van der Valk Hotel-Restaurant-keten 2011&2012</li>
 <li>keramiek				 		-	Bergen a/z 18/20 mei 2013 combi-expo Hotel Meijer</li>
 
-werkzaamheden:
-	Koninklijke Marine				 -	1961-1963 Verbindingsschool A’ dam, SDO Hollandse Rading
-Geref. Lager- & Basisonderwijs 			- 	1961-1980 Kinderdijk, Rijswijk, Ommen
-MULO/MAVO					-	1968-1972 Hardenberg (part-time)
-GH-Zwolle					- 	1973-1980 (part-time) Beeldende Vorming
-GH-Zwolle					- 	1980-1992 afd. hoofd  Propedeuse
-GH-Zwolle					- 	1980-2000 full time docent
+werkzaamheden:<br>
+<li>Koninklijke Marine				 -	1961-1963 Verbindingsschool A’ dam, SDO Hollandse Rading</li>
+<li>Geref. Lager- & Basisonderwijs 			- 	1961-1980 Kinderdijk, Rijswijk, Ommen</li>
+<li>MULO/MAVO					-	1968-1972 Hardenberg (part-time)</li>
+<li>GH-Zwolle					- 	1973-1980 (part-time) Beeldende Vorming</li>
+<li>GH-Zwolle					- 	1980-1992 afd. hoofd  Propedeuse</li>
+<li>GH-Zwolle					- 	1980-2000 full time docent</li>
 
-vrijwilligers werk
-Reisleider GRV					-	1987 Joegoslavië/Venetië
-Stichting Kunst & Cultuur Kleine Kerk Steenwijk 	-	voorzitter St. K&CK Steenwijk 1998-2009
-Weeshuis:Maseru Lesotho				-	2004/2005 Creatief werken
-Juvenile Training Centre 				-	2009 gastcollege trainers/pupils YfC – Maseru, Lesotho
-Disciple Training School  				-	gastcolleges 2008/2009 YwaM (Maseru)
-Youth for Christ, Maseru				-	Shape Day en townshipwork 2008
+vrijwilligers werk:<br>
+<li>Reisleider GRV					-	1987 Joegoslavië/Venetië</li>
+<li>Stichting Kunst & Cultuur Kleine Kerk Steenwijk 	-	voorzitter St. K&CK Steenwijk 1998-2009</li>
+<li>Weeshuis:Maseru Lesotho				-	2004/2005 Creatief werken</li>
+<li>Juvenile Training Centre 				-	2009 gastcollege trainers/pupils YfC – Maseru, Lesotho</li>
+<li>Disciple Training School  				-	gastcolleges 2008/2009 YwaM (Maseru)</li>
+<li>Youth for Christ, Maseru				-	Shape Day en townshipwork 2008</li>
 								  leiders & jeugdtraining o.l.v. Gert v d Bos e.a.
 Workshop druktechnieken 				- 	Meppel 2009 GKv gemeente aktiviteit
 Workshop druktechnieken				-	Zwartsluis 2010 GKv gemeente aktiviteit
