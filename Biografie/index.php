@@ -26,9 +26,9 @@
 	<div id="content">
 		<center>
 			<?php print file_get_contents("http://www.humancreature.nl/menu.php")?>
+			<h3>Biografie:</h3>
 			<div id="biografie">
-				<h3>Biografie</h3>
-				<br><br>opleiding:<br>
+				<br><br>Opleiding:<br>
 				<li>1952-1956 MULO – Utrecht, Assen, Gorinchem</li>
 				<li>1956-1961 Pedagogische Academie “Juliana van Stolberg” Gorinchem</li>
 				<li>Staatsdiploma L.O.-Handvaardigheid 1970</li>
@@ -37,7 +37,7 @@
 				<li>Post HBO – tekenen als observatiemethodiek – psycho-chromoanalyse – diagnostiek – pictologie van de kindertekening, Rijks Hogeschool Groningen, 1995</li>
 				<li>Post HBO - Interpreteren van Kindertekeningen – SON-cursus 1998, Utrecht</li><br><br>
 
-				tentoonstellingen:
+				Tentoonstellingen:
 				<li>keramiek				 		- 	Nieuw Lekkerland</li>
 				<li>keramiek				 		- 	Hardenberg</li>
 				<li>fotografie Eiertikken	 		 	- 	Gemeentehuis Ommen</li>
@@ -52,7 +52,7 @@
 				<li>diverse exposities keramiek/druktechn			-	Van der Valk Hotel-Restaurant-keten 2011&2012</li>
 				<li>keramiek				 		-	Bergen a/z 18/20 mei 2013 combi-expo Hotel Meijer</li><br><br>
 
-				werkzaamheden:<br>
+				Werkzaamheden:<br>
 				<li>Koninklijke Marine				 -	1961-1963 Verbindingsschool A’ dam, SDO Hollandse Rading</li>
 				<li>Geref. Lager- & Basisonderwijs 			- 	1961-1980 Kinderdijk, Rijswijk, Ommen</li>
 				<li>MULO/MAVO					-	1968-1972 Hardenberg (part-time)</li>
@@ -60,7 +60,7 @@
 				<li>GH-Zwolle					- 	1980-1992 afd. hoofd  Propedeuse</li>
 				<li>GH-Zwolle					- 	1980-2000 full time docent</li><br><br>
 
-				vrijwilligers werk:<br>
+				Vrijwilligers werk:<br>
 				<li>Reisleider GRV					-	1987 Joegoslavië/Venetië</li>
 				<li>Stichting Kunst & Cultuur Kleine Kerk Steenwijk 	-	voorzitter St. K&CK Steenwijk 1998-2009</li>
 				<li>Weeshuis:Maseru Lesotho				-	2004/2005 Creatief werken</li>
@@ -76,7 +76,7 @@
 				<li>Workshop druktechnieken 	idem			- 	Steenwijk 2012  2 x groep dagopvang</li>
 				<li>Evangelisatie & Recreatie 	2013, 2015		-	programma creatief werk op camping Eikenhorst in Paasloo</li><br><br>
 
-				divers:<br>
+				Divers:<br>
 				<li>Illustratie omslag: Academisch Proefschrft “DE TWEEDE TROMPET”- prof. dr P.H.R. van Houwelingen, uitg. J.H. Kok Kampen, 1998</li>
 				<li>Illustraties in “Jesus stel homself bekend” Rob van Houwelingen  en Aldert L. Visser 2012</li>
 				<li>Artikelen maandblad  Aan de Hand - Creativiteit en Expressie</li>
