@@ -26,6 +26,7 @@
 	<div id="content">
 		<center>
 			<?php print file_get_contents("http://www.humancreature.nl/menu.php")?>
+			<div id="#biografie">
 			opleiding:<br>
 <ul>1952-1956 MULO – Utrecht, Assen, Gorinchem
 <li>1956-1961 Pedagogische Academie “Juliana van Stolberg” Gorinchem</li>
@@ -64,8 +65,8 @@ vrijwilligers werk:<br>
 <li>Weeshuis:Maseru Lesotho				-	2004/2005 Creatief werken</li>
 <li>Juvenile Training Centre 				-	2009 gastcollege trainers/pupils YfC – Maseru, Lesotho</li>
 <li>Disciple Training School  				-	gastcolleges 2008/2009 YwaM (Maseru)</li>
-<li>Youth for Christ, Maseru				-	Shape Day en townshipwork 2008</li>
-								  leiders & jeugdtraining o.l.v. Gert v d Bos e.a.
+<li>Youth for Christ, Maseru				-	Shape Day en townshipwork 2008 leiders & jeugdtraining o.l.v. Gert v d Bos e.a.</li>
+
 Workshop druktechnieken 				- 	Meppel 2009 GKv gemeente aktiviteit
 Workshop druktechnieken				-	Zwartsluis 2010 GKv gemeente aktiviteit
 Workshop druktechnieken 				- 	Ladybrand 2010 Chr. Jeugdcentrum
@@ -75,13 +76,14 @@ Workshop druktechnieken 	idem			- 	Steenwijk 2012 groep begeleidwonen
 Workshop druktechnieken 	idem			- 	Steenwijk 2012  2 x groep dagopvang
 Evangelisatie & Recreatie 	2013, 2015		-	programma creatief werk op camping Eikenhorst in Paasloo
 
-divers
+divers:
 Illustratie omslag: Academisch Proefschrft “DE TWEEDE TROMPET”- prof. dr P.H.R. van Houwelingen, uitg. J.H. Kok Kampen, 1998
 Illustraties in “Jesus stel homself bekend” Rob van Houwelingen  en Aldert L. Visser 2012
 Artikelen maandblad  Aan de Hand - Creativiteit en Expressie
 BEELDENDE VORMING en WELZIJN – uitgave GHBO – Zwolle, 1980
 Lid Cie. Beeldende Kunst Steenwijkerland (twee periodes) en mede auteur Beelden in Beeld 2 & 3 uitgave Kunst en Cultuur, Steenwijkerland
 Bekijk je Rijk – artikelen over kunst en cultuur in kerkblad en GHBO-uitgaven
+</div>
 		</center>
 	</div>
 </div>
