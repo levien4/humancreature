@@ -27,14 +27,15 @@
 		<center>
 			<?php print file_get_contents("http://www.humancreature.nl/menu.php")?>
 			<div id="biografie">
-				opleiding:<br>
+				<h3>Biografie</h3>
+				<br><br>opleiding:<br>
 				<li>1952-1956 MULO – Utrecht, Assen, Gorinchem</li>
 				<li>1956-1961 Pedagogische Academie “Juliana van Stolberg” Gorinchem</li>
 				<li>Staatsdiploma L.O.-Handvaardigheid 1970</li>
 				<li>Voortgezette Studie Handvaardigheid 1964-1972: Rotterdam, Den Haag, Hengelo, Groningen</li>
 				<li>Staatsdiploma Handvaardigheid A/B, Amersfoort 1982</li>
 				<li>Post HBO – tekenen als observatiemethodiek – psycho-chromoanalyse – diagnostiek – pictologie van de kindertekening, Rijks Hogeschool Groningen, 1995</li>
-				<li>Post HBO - Interpreteren van Kindertekeningen – SON-cursus 1998, Utrecht</li>
+				<li>Post HBO - Interpreteren van Kindertekeningen – SON-cursus 1998, Utrecht</li><br><br>
 
 				tentoonstellingen:
 				<li>keramiek				 		- 	Nieuw Lekkerland</li>
@@ -49,7 +50,7 @@
 				<li>overzichtstentoonstelling		 		- 	Meppel Kruiskerk 2009/’10</li>
 				<li>expositie druktechnieken		 		- 	Zwartsluis GKv febr-mei ’10</li>
 				<li>diverse exposities keramiek/druktechn			-	Van der Valk Hotel-Restaurant-keten 2011&2012</li>
-				<li>keramiek				 		-	Bergen a/z 18/20 mei 2013 combi-expo Hotel Meijer</li>
+				<li>keramiek				 		-	Bergen a/z 18/20 mei 2013 combi-expo Hotel Meijer</li><br><br>
 
 				werkzaamheden:<br>
 				<li>Koninklijke Marine				 -	1961-1963 Verbindingsschool A’ dam, SDO Hollandse Rading</li>
@@ -57,7 +58,7 @@
 				<li>MULO/MAVO					-	1968-1972 Hardenberg (part-time)</li>
 				<li>GH-Zwolle					- 	1973-1980 (part-time) Beeldende Vorming</li>
 				<li>GH-Zwolle					- 	1980-1992 afd. hoofd  Propedeuse</li>
-				<li>GH-Zwolle					- 	1980-2000 full time docent</li>
+				<li>GH-Zwolle					- 	1980-2000 full time docent</li><br><br>
 
 				vrijwilligers werk:<br>
 				<li>Reisleider GRV					-	1987 Joegoslavië/Venetië</li>
@@ -73,9 +74,9 @@
 				<li>Workshop druktechnieken  St. Presen Steenwijkerland 	- 	Steenwijk 2012 Nijenstede Bejaarden</li>
 				<li>Workshop druktechnieken 	idem			- 	Steenwijk 2012 groep begeleidwonen</li>
 				<li>Workshop druktechnieken 	idem			- 	Steenwijk 2012  2 x groep dagopvang</li>
-				<li>Evangelisatie & Recreatie 	2013, 2015		-	programma creatief werk op camping Eikenhorst in Paasloo</li>
+				<li>Evangelisatie & Recreatie 	2013, 2015		-	programma creatief werk op camping Eikenhorst in Paasloo</li><br><br>
 
-				divers:
+				divers:<br>
 				<li>Illustratie omslag: Academisch Proefschrft “DE TWEEDE TROMPET”- prof. dr P.H.R. van Houwelingen, uitg. J.H. Kok Kampen, 1998</li>
 				<li>Illustraties in “Jesus stel homself bekend” Rob van Houwelingen  en Aldert L. Visser 2012</li>
 				<li>Artikelen maandblad  Aan de Hand - Creativiteit en Expressie</li>
