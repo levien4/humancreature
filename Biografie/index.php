@@ -74,7 +74,8 @@
 				<li>Workshop druktechnieken  St. Presen Steenwijkerland 	- 	Steenwijk 2012 Nijenstede Bejaarden</li>
 				<li>Workshop druktechnieken 	idem			- 	Steenwijk 2012 groep begeleidwonen</li>
 				<li>Workshop druktechnieken 	idem			- 	Steenwijk 2012  2 x groep dagopvang</li>
-				<li>Evangelisatie & Recreatie 	2013, 2015		-	programma creatief werk op camping Eikenhorst in Paasloo</li><br><br>
+				<li>Evangelisatie & Recreatie 	2013, 2015		-	programma creatief werk op camping Eikenhorst in Paasloo</li>
+				<li>Workshop druktechnieken 2016 - Ladybrand RSA Jeugsorgsentrum: Creatief drukken met sjablonen en shoe polish</li><br><br>
 
 				Divers:<br>
 				<li>Illustratie omslag: Academisch Proefschrft “DE TWEEDE TROMPET”- prof. dr P.H.R. van Houwelingen, uitg. J.H. Kok Kampen, 1998</li>
