@@ -108,13 +108,6 @@
 					<img src="13a.JPG">
 				</a>
 
-				<a href="#druk18" id="galerij">
-					<img src="14b.jpg">
-				</a>
-				<a href="#_" class="lightbox" id="druk18">
-					<img src="14a.JPG">
-				</a>
-
 				<a href="#druk19" id="galerij2">
 					<img src="15b.jpg">
 				</a>
