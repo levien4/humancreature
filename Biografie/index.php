@@ -28,6 +28,12 @@
 			<?php print file_get_contents("http://www.humancreature.nl/menu.php")?>
 			<h3>Biografie:</h3>
 			<div id="biografie">
+				Naam: Aldert Lykele Visser<br>
+				Geboren: Utrecht, 22 september 1940<br>
+				Burgerlijke staat: gehuwd<br>
+				Adres: De Strekel 36, Steenwijk<br>
+				Telefoon: 0521-515174<br><br>
+
 				Opleiding:<br>
 				<li>1952-1956 MULO – Utrecht, Assen, Gorinchem</li>
 				<li>1956-1961 Pedagogische Academie “Juliana van Stolberg” Gorinchem</li>
@@ -53,10 +59,11 @@
 				<li>keramiek				 		-	Bergen a/z 18/20 mei 2013 combi-expo Hotel Meijer</li><br><br>
 
 				Werkzaamheden:<br>
-				<li>Koninklijke Marine				 -	1961-1963 Verbindingsschool A’ dam, SDO Hollandse Rading</li>
-				<li>Geref. Lager- & Basisonderwijs 			- 	1961-1980 Kinderdijk, Rijswijk, Ommen</li>
+				<li>Koninklijke Marine				 -	1961-1963 Verbindingsschool A’dam, SDO Hollandse Rading</li>
+				<li>Chr. l.s. Wilnis - 1961 september-november</li>
+				<li>Geref. Lager- & Basisonderwijs 			- 	1963-1968 Rijswijk, Ommen</li>
 				<li>MULO/MAVO					-	1968-1972 Hardenberg (part-time)</li>
-				<li>GH-Zwolle					- 	1973-1980 (part-time) Beeldende Vorming</li>
+				<li>GSA-Zwolle					- 	1973-1980 (part-time) Beeldende Vorming</li>
 				<li>GH-Zwolle					- 	1980-1992 afd. hoofd  Propedeuse</li>
 				<li>GH-Zwolle					- 	1980-2000 full time docent</li><br><br>
 
@@ -71,7 +78,7 @@
 				<li>Workshop druktechnieken				-	Zwartsluis 2010 GKv gemeente aktiviteit</li>
 				<li>Workshop druktechnieken 				- 	Ladybrand 2010 Chr. Jeugdcentrum</li>
 				<li>Workshop druktechnieken 				- 	Ladybrand 2011 met jongeren uit de buurt</li>
-				<li>Workshop druktechnieken  St. Presen Steenwijkerland 	- 	Steenwijk 2012 Nijenstede Bejaarden</li>
+				<li>Workshop druktechnieken  St. Present Steenwijkerland 	- 	Steenwijk 2012 Nijenstede Bejaarden</li>
 				<li>Workshop druktechnieken 	idem			- 	Steenwijk 2012 groep begeleidwonen</li>
 				<li>Workshop druktechnieken 	idem			- 	Steenwijk 2012  2 x groep dagopvang</li>
 				<li>Evangelisatie & Recreatie 	2013, 2015		-	programma creatief werk op camping Eikenhorst in Paasloo</li>
