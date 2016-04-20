@@ -11,7 +11,7 @@
 	<div id="header">
 		<h1>
 			<font>
-				Human Creature:<br><li>Druktechnieken & collage</li>
+				Human Creature:<br><li>Gecombineerde technieken</li>
 			</font>
 		</h1>
 	</div>
@@ -26,15 +26,7 @@
 	<div id="content">
 		<center>
 			<?php print file_get_contents("http://www.humancreature.nl/menu.php")?>
-			<div id="galerij">
-				<a href="#drukcol1" id="galerij">
-					<img src="14b.jpg">
-				</a>
-
-				<a href="#_" class="lightbox" id="drukcol1">
-					<img src="14a.JPG">
-				</a>
-			</div>
+			<h3>Omschrijving:</h3>
 		</center>
 	</div>
 </div>

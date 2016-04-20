@@ -87,7 +87,7 @@ document.all(elmnt).style.visibility="hidden"
 							</tr>
 							<tr>
 								<td class="menu">
-									<a href="#">druktechnieken & collage</a>
+									<a href="http://www.humancreature.nl/overig/drukcol/index">druktechnieken & collage</a>
 								</td>
 							</tr>
 							<tr>
