@@ -54,6 +54,13 @@
 				<a href="#_" class="lightbox" id="hout4">
 					<img src="hout4.jpg">
 				</a>
+
+				<a href="#hout5" id="galerij">
+					<img src="hout5a.jpg">
+				</a>
+				<a href="#_" class="lightbox" id="hout5">
+					<img src="hout5b.JPG">
+				</a>
 			</div>
 		</center>
 	</div>

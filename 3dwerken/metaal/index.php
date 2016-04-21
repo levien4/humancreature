@@ -35,11 +35,18 @@
 				</a>
 
 				<a href="#met2" id="galerij2">
-					<img src="bld1.JPG">
+					<img src="met2.JPG">
 				</a>
 				<a href="#_" class="lightbox" id="met2">
-					<img src="bld1.JPG">
+					<img src="met2.JPG">
 					<br>Fishing &nbsp Jing &nbsp Jang
+				</a>
+
+				<a href="#met3" id="galerij">
+					<img src="met3a.jpg">
+				</a>
+				<a href="#_" class="lightbox" id="met3">
+					<img src="met3b.JPG">
 				</a>
 			</div>
 		</center>
