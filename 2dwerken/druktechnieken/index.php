@@ -150,6 +150,13 @@
 					<img src="20a.jpg">
 				</a>
 
+				<a href="#druk25" id="galerij">
+					<img src="21b.jpg">
+				</a>
+				<a href="#_" class="lightbox" id="druk25">
+					<img src="21a.jpg">
+				</a>
+
 				<a href="#_" class="lightbox" id="druk1">
 					<img src="zebra.JPG">
 				</a>
