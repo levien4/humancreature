@@ -150,7 +150,7 @@
 					<img src="20a.jpg">
 				</a>
 
-				<a href="#druk25" id="galerij">
+				<a href="#druk25" id="galerij2">
 					<img src="21b.jpg">
 				</a>
 				<a href="#_" class="lightbox" id="druk25">
