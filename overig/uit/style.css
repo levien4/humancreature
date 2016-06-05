@@ -1,0 +1,44 @@
+body{
+  //background-color: green;
+}
+
+#back{
+  width: 1000px;
+  z-index: 1;
+  position: absolute;
+}
+
+#flap{
+  z-index:5;
+  position: absolute;
+  width: 340px;
+  top: 365px;
+  left: 665px;
+}
+
+#info{
+  z-index:2;
+  position: absolute;
+  width: 340px;
+  top: 70px;
+  left: 665px;
+  transition: transform 1s;
+}
+
+#route{
+  z-index:2;
+  position: absolute;
+  width: 340px;
+  top: 150px;
+  left: 665px;
+  transition: transform 1s;
+}
+
+img{
+  width: 100%;
+}
+
+.card{
+  top: 100px;
+  position: absolute;
+}
