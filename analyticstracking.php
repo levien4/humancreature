@@ -9,4 +9,4 @@ ga('send', 'pageview');
 ga('set', 'forceSSL', true);
 ga('set', 'anonymizeIp', true);
 
-</script>
+</script></script>
