@@ -2,16 +2,22 @@
 @font-face{font-family: Baskerville Old Face; src: url('ufonts.com_baskerville-old-face.ttf');}
 
 /*responsive design*/
-@media screen and (max-width:1000px){
+@media only screen and (max-width:1000px){
   #biografie{
-    font-size: 15pt;
+    font-size: 23pt !important;
   }
+
+  a{
+    font-size: 17pt !important;
+  }
+
 }
 
 body {
 background:rgb(223,220,85);
 color: white;
 margin: 0;
+font-size: 13pt;
 }
 
 #container{
