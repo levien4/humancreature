@@ -1,5 +1,13 @@
 @font-face{font-family: Papyrus; src: url('Papyrus.TTF');}
 @font-face{font-family: Baskerville Old Face; src: url('ufonts.com_baskerville-old-face.ttf');}
+
+/*responsive design*/
+@media screen and (max-width:1000px){
+  #biografie{
+    text-size: 20pt;
+  }
+}
+
 body {
 background:rgb(223,220,85);
 color: white;
