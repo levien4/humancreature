@@ -50,3 +50,9 @@ button{
   right: 0;
   //z-index: 1;
 }
+
+#part{
+  height: 720px;
+  width: 1280px;
+  background-size: contain;
+}
