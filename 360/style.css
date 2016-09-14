@@ -3,7 +3,7 @@ video::-webkit-media-controls{
 }
 
 .bar{
-  display: none;
+  //display: none;
   width: 1280px;
   margin-top: 50px;
   -webkit-appearance: none;
@@ -37,18 +37,6 @@ video::-webkit-media-controls{
   background: #303F9F;
   margin-top: -6.5px;
   transition: .2s all ease-in-out;
-}
-
-button{
-  width: 100px;
-  height: 100px;
-  position: absolute;
-}
-
-#links{
-  //float: right;
-  right: 0;
-  //z-index: 1;
 }
 
 #part{
