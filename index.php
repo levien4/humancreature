@@ -28,7 +28,7 @@
 	<div id="content">
 		<center>
 			<?php print file_get_contents("http://www.humancreature.nl/menu.php")?>
-			<div id="home">
+			<div id="info">
 				De mens heeft op allerlei gebied mogelijkheden om in te spelen op eigen levenssituatie of dat van anderen.<br>
 				Die talenten zijn per individu verschillend en soms “onuitputtelijk.”<br>
 				Deze website biedt je inzicht en keuzes om zelf aan de slag te gaan met je scheppende gaven op vooral beeldend gebied.<br>
@@ -47,7 +47,7 @@
 		      Ze mogen heersen over alles op aarde. U hebt hun alles gegeven: <br>
 					De schapen en de koeien, alle dieren op het land. <br>
 					Ook de vogels in de lucht en de vissen in de zee, alle dieren in het water. <br>
-		       Heer, onze Heer, groot is uw macht, overal op aarde!<br>
+		      Heer, onze Heer, groot is uw macht, overal op aarde!<br>
 				</div>
 			</div>
 		</center>
