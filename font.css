@@ -179,3 +179,16 @@ text-decoration: underline;
   margin-right: 40px;
   margin-bottom: 40px;
 }
+
+#home{
+  font-weight: normal;
+  font-size: 13pt;
+  text-align: left;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 40px;
+}
+
+#psalm{
+  text-align: center;
+}
