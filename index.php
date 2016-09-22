@@ -33,8 +33,8 @@
 				Die talenten zijn per individu verschillend en soms “onuitputtelijk.”<br>
 				Deze website biedt je inzicht en keuzes om zelf aan de slag te gaan met je scheppende gaven op vooral beeldend gebied.<br>
 				Eye-openers van creatieve talenten op muzikaal, verbaal en ander terrein laat ik aan de andere deskundige over.<br>
-				Alle deze gaven hebben tenslotte een centrale functie binnen de menselijke samenleving = communicatie.
-				Creativiteit is een gave die ieder mens – gelovig of niet – van God heeft gekregen, lees je in Psalm 8
+				Alle deze gaven hebben tenslotte een centrale functie binnen de menselijke samenleving = communicatie.<br>
+				Creativiteit is een gave die ieder mens – gelovig of niet – van God heeft gekregen, lees je in Psalm 8<br>
 				<div id="psalm">
 					Heer, onze Heer, groot is uw macht, overal op aarde!<br>
 					In de hemel klinkt een lied over uw macht. Zelfs kleine kinderen zingen over u. <br>
