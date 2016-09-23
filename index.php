@@ -52,7 +52,7 @@
 					<hr>
 				</div>
 				<a href="https://www.humancreature.nl/biografie">Opleiding en Praktijk</a><br>
-				<table>
+				<table style="vertical-align: top;">
 					<tr>
 						<td>Onderwijs:</td><td>Juliana van Stolberg – Gorinchem L.O. met aant. J en R en Hoofdacte</td>
 					</tr>
