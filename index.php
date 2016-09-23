@@ -60,9 +60,7 @@
 						<td>Specialisatie:</td><td>Beeldende Vorming en Pictologie van de kindertekening –  1e graads opleiding: 			Rotterdam, Enschede, Groningen, Amersfoort, Utrecht</td>
 					</tr>
 					<tr>
-						<td>Praktijk:</td><td>v/h Basisonderwijs (Rijswijk), Mulo (Hardenberg), H.B.O (Zwolle)
-		tot naderorder op verzoek of eigen initiatief:
-		diverse creatieve workshops in binnen- en buitenland.</td>
+						<td>Praktijk:</td><td>v/h Basisonderwijs (Rijswijk), Mulo (Hardenberg), H.B.O (Zwolle) tot naderorder op verzoek of eigen initiatief: diverse creatieve workshops in binnen- en buitenland.</td>
 					</tr>
 				</table>
 			</div>
