@@ -36,6 +36,7 @@
 				Alle deze gaven hebben tenslotte een centrale functie binnen de menselijke samenleving = communicatie.<br>
 				Creativiteit is een gave die ieder mens – gelovig of niet – van God heeft gekregen, lees je in Psalm 8<br>
 				<div id="psalm">
+					<hr>
 					Heer, onze Heer, groot is uw macht, overal op aarde!<br>
 					In de hemel klinkt een lied over uw macht. Zelfs kleine kinderen zingen over u. <br>
 		      Uw macht is zo groot dat u al uw vijanden verslaat. <br>
@@ -48,6 +49,7 @@
 					De schapen en de koeien, alle dieren op het land. <br>
 					Ook de vogels in de lucht en de vissen in de zee, alle dieren in het water. <br>
 		      Heer, onze Heer, groot is uw macht, overal op aarde!<br>
+					<hr>
 				</div>
 			</div>
 		</center>
