@@ -194,4 +194,9 @@ text-decoration: underline;
 #psalm{
   text-align: center;
   margin-top: 20px;
+  line-height: 150%;
+}
+
+hr{
+  border-style: solid;
 }
