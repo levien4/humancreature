@@ -55,12 +55,7 @@
 					<img src="ker4.jpg">
 				</a>
 
-				<a href="#ker5" id="galerij">
-					<img src="ker5a.jpg">
-				</a>
-				<a href="#_" class="lightbox" id="ker5">
-					<img src="ker5b.JPG">
-				</a>
+
 
 				<a href="#ker6" id="galerij2">
 					<img src="ker6a.jpg">
@@ -98,20 +93,6 @@
 					<img src="ker10.jpg">
 				</a>
 
-				<a href="#ker11" id="galerij">
-					<img src="ker11a.jpg">
-				</a>
-				<a href="#_" class="lightbox" id="ker11">
-					<img src="ker11b.JPG">
-				</a>
-
-				<a href="#ker12" id="galerij">
-					<img src="ker12a.jpg">
-				</a>
-				<a href="#_" class="lightbox" id="ker12">
-					<img src="ker12b.JPG">
-				</a>
-
 				<a href="#ker13" id="galerij2">
 					<img src="ker13b.jpg">
 				</a>
@@ -133,6 +114,27 @@
 				</a>
 				<a href="#_" class="lightbox" id="ker15">
 					<img src="ker15.jpg">
+
+				<a href="#ker5" id="galerij">
+					<img src="ker5a.jpg">
+				</a>
+				<a href="#_" class="lightbox" id="ker5">
+					<img src="ker5b.JPG">
+				</a>
+
+				<a href="#ker11" id="galerij">
+					<img src="ker11a.jpg">
+				</a>
+				<a href="#_" class="lightbox" id="ker11">
+					<img src="ker11b.JPG">
+				</a>
+
+				<a href="#ker12" id="galerij">
+					<img src="ker12a.jpg">
+				</a>
+				<a href="#_" class="lightbox" id="ker12">
+					<img src="ker12b.JPG">
+				</a>
 				</a>
 			</div>
 		</center>
