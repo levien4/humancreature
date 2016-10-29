@@ -51,7 +51,7 @@
 		      Heer, onze Heer, groot is uw macht, overal op aarde!<br>
 					<hr>
 				</div>
-				<a href="https://www.humancreature.nl/biografie">Opleiding en Praktijk</a><br>
+				<a href="http://www.humancreature.nl/Biografie/">Opleiding en Praktijk</a><br>
 				<table style="vertical-align: top;">
 					<tr>
 						<td>Onderwijs:</td><td>Juliana van Stolberg – Gorinchem L.O. met aant. J en R en Hoofdacte</td>

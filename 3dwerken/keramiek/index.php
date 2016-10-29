@@ -111,6 +111,29 @@
 				<a href="#_" class="lightbox" id="ker12">
 					<img src="ker12b.JPG">
 				</a>
+
+				<a href="#ker13" id="galerij">
+					<img src="ker13b.jpg">
+				</a>
+				<a href="#_" class="lightbox" id="ker13">
+					<img src="ker13a.JPG">
+					<br>muurdecoratie school voor Buitengewoon Lager Onderwijs te Mariënberg (1993)
+				</a>
+
+				<a href="#ker14" id="galerij">
+					<img src="ker14b.jpg">
+				</a>
+				<a href="#_" class="lightbox" id="ker14">
+					<img src="ker14a.JPG">
+					<br>muurdecoratie school voor Buitengewoon Lager Onderwijs te Mariënberg (1993)
+				</a>
+
+				<a href="#ker15" id="galerij">
+					<img src="ker15.jpg">
+				</a>
+				<a href="#_" class="lightbox" id="ker15">
+					<img src="ker15.jpg">
+				</a>
 			</div>
 		</center>
 	</div>
