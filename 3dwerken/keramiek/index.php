@@ -55,8 +55,6 @@
 					<img src="ker4.jpg">
 				</a>
 
-
-
 				<a href="#ker6" id="galerij2">
 					<img src="ker6a.jpg">
 				</a>
@@ -114,6 +112,8 @@
 				</a>
 				<a href="#_" class="lightbox" id="ker15">
 					<img src="ker15.jpg">
+					<br>Bescherming
+				</a>
 
 				<a href="#ker5" id="galerij">
 					<img src="ker5a.jpg">
@@ -134,7 +134,6 @@
 				</a>
 				<a href="#_" class="lightbox" id="ker12">
 					<img src="ker12b.JPG">
-				</a>
 				</a>
 			</div>
 		</center>
