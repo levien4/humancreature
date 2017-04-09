@@ -38,7 +38,7 @@
 					<img src="ker2a.jpg">
 				</a>
 				<a href="#_" class="lightbox" id="ker2">
-					<img src="ker2b.JPG">
+					<?php print file_get_contents("http://localhost:8080/360")?>
 				</a>
 
 				<a href="#ker3" id="galerij2">
@@ -134,6 +134,13 @@
 				</a>
 				<a href="#_" class="lightbox" id="ker12">
 					<img src="ker12b.JPG">
+				</a>
+
+				<a href="#ker16" id="galerij">
+					<img src="ker16a.jpg">
+				</a>
+				<a href="#_" class="lightbox" id="ker16">
+					<img src="ker16a.jpg">
 				</a>
 			</div>
 		</center>

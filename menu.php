@@ -82,7 +82,7 @@ document.all(elmnt).style.visibility="hidden"
 						<table class="menu" id="site4">
 							<tr>
 								<td class="menu">
-									<a href="#">encoustique & collage</a>
+									<a href="http://www.humancreature.nl/overig/encol">encoustique & collage</a>
 								</td>
 							</tr>
 							<tr>

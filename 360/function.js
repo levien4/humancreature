@@ -16,7 +16,7 @@ $(document).ready(function(){
     var input = parseInt($("#seekbar").val());
     console.log(input);
     var framenumber = input;
-    var part = $('<div id="part" style="background-image: url(00' + framenumber + '.jpg);"></div>');
+    var part = $('<div id="part" style="background-image: url(http://www.humancreature.nl/360/00' + framenumber + '.jpg);"></div>');
     $('#part').replaceWith(part);
   });
 
