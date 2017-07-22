@@ -27,14 +27,14 @@
 		<center>
 			<?php print file_get_contents("http://www.humancreature.nl/menu.php")?>
 			<div id="galerij">
-				<a href="#encol1" id="galerij">
+				<a href="#encol1" id="galerij2">
 					<img src="encol1a.JPG">
 				</a>
 				<a href="#_" class="lightbox" id="encol1">
 					<img src="encol1a.JPG">
 				</a>
 
-				<a href="#encol2" id="galerij">
+				<a href="#encol2" id="galerij2">
 					<img src="encol2.JPG">
 				</a>
 				<a href="#_" class="lightbox" id="encol2">

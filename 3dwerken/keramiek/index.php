@@ -142,13 +142,13 @@
 				<a href="#_" class="lightbox" id="ker16">
 					<img src="ker16a.jpg">
 
-				<a href="#ker17" id="galerij">
+				<a href="#ker17" id="galerij2">
 					<img src="ker17.JPG">
 				</a>
 				<a href="#_" class="lightbox" id="ker17">
 					<img src="ker17.JPG">
 
-				<a href="#ker18" id="galerij">
+				<a href="#ker18" id="galerij2">
 					<img src="ker18.JPG">
 				</a>
 				<a href="#_" class="lightbox" id="ker18">
