@@ -30,9 +30,16 @@
 				<a href="#encol1" id="galerij">
 					<img src="encol1a.JPG">
 				</a>
-
 				<a href="#_" class="lightbox" id="encol1">
 					<img src="encol1a.JPG">
+				</a>
+
+				<a href="#encol2" id="galerij">
+					<img src="encol2.JPG">
+				</a>
+				<a href="#_" class="lightbox" id="encol2">
+					<img src="encol2.JPG">
+					<br>Jozef in de put
 				</a>
 			</div>
 		</center>
