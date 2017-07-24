@@ -4,10 +4,10 @@
 <meta name="theme-color" content="rgb(0,0,47)">
 <title>Home</title>
 <link rel="icon" type="image/x-icon" href="favicon.ico">
-<?php print file_get_contents("http://www.humancreature.nl/scripts.php")?>
+<?php print file_get_contents("https://www.humancreature.nl/scripts.php")?>
 </head>
 <body>
-<?php print file_get_contents("http://www.humancreature.nl/analyticstracking.php") ?>
+<?php print file_get_contents("https://www.humancreature.nl/analyticstracking.php") ?>
 <center>
 <div id="container">
 	<div id="header">
