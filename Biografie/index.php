@@ -30,8 +30,7 @@
 			<div id="biografie">
 				Naam: Aldert Lykele Visser<br>
 				Geboren: Utrecht, 22 september 1940<br>
-				Burgerlijke staat: gehuwd<br>
-				Adres: De Strekel 36, Steenwijk<br><br>
+				Burgerlijke staat: gehuwd<br><br>
 
 				Opleiding:<br>
 				<li>1952-1956 MULO – Utrecht, Assen, Gorinchem</li>
