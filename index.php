@@ -51,18 +51,6 @@
 		      Heer, onze Heer, groot is uw macht, overal op aarde!<br>
 					<hr>
 				</div>
-				<a href="http://www.humancreature.nl/Biografie/">Opleiding en Praktijk</a><br>
-				<table style="vertical-align: top;">
-					<tr>
-						<td>Onderwijs:</td><td>Juliana van Stolberg – Gorinchem L.O. met aant. J en R en Hoofdacte</td>
-					</tr>
-					<tr>
-						<td>Specialisatie:</td><td>Beeldende Vorming en Pictologie van de kindertekening – 1e graads opleiding: Rotterdam, Enschede, Groningen, Haren, Amersfoort, Utrecht</td>
-					</tr>
-					<tr>
-						<td>Praktijk:</td><td>v/h Basisonderwijs (Rijswijk 5 jaar, Ommen 12,5 jaar), Mulo/Mavo (Hardenberg pt 4 jaar), H.B.O (Zwolle 1973-2000) tot nader order op verzoek of eigen initiatief: diverse creatieve workshops: binnen- en buitenland (RSA en Lesotho –The Kingdom in the Sky)</td>
-					</tr>
-				</table>
 			</div>
 		</center>
 	</div>
