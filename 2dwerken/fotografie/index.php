@@ -48,7 +48,7 @@
 				</a>
 				<a href="#_" class="lightbox" id="img8">
 					<img src="foto3.jpg">
-					<br>Pied Kingfisher (Bontvisvanger) &#9792
+					<br>Pied Kingfisher (Bontvisvanger) &#9792; (female)
 				</a>
 
 				<a href="#img9" id="galerij2">
@@ -56,6 +56,7 @@
 				</a>
 				<a href="#_" class="lightbox" id="img9">
 					<img src="foto4.JPG">
+					<br>Rechts Kingfisher &#9794; (male)
 				</a>
 
 				<a href="#img10" id="galerij2">
@@ -63,7 +64,7 @@
 				</a>
 				<a href="#_" class="lightbox" id="img10">
 					<img src="foto5.JPG">
-					<br>Red Bishop &#9794
+					<br>Red Bishop &#9794; (Rooivink)
 				</a>
 
 				<a href="#img11" id="galerij2">

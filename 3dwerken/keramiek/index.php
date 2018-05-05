@@ -77,6 +77,14 @@
 					<br>Onmogelijke giraf
 				</a>
 
+				<a href="#giraffe" id="galerij2">
+					<img src="giraffe.JPG">
+				</a>
+				<a href="#_" class="lightbox" id="giraffe">
+					<img src="giraffe.JPG">
+					<br>Onmogelijke giraf
+				</a>
+
 				<a href="#ker9" id="galerij2">
 					<img src="ker9a.jpg">
 				</a>
@@ -153,6 +161,13 @@
 				</a>
 				<a href="#_" class="lightbox" id="ker18">
 					<img src="ker18.JPG">
+				</a>
+
+				<a href="#ker19" id="galerij2">
+					<img src="ker19.JPG">
+				</a>
+				<a href="#_" class="lightbox" id="ker19">
+					<img src="ker19.JPG">
 				</a>
 			</div>
 		</center>
