@@ -25,7 +25,7 @@
 	</div>
 
 	<div id="content">
-		<center>
+		<center> 
 			<?php print file_get_contents('http://www.humancreature.nl/menu.php')?>
 			<h3>Omschrijving:</h3>
 			<div id="info">
@@ -36,7 +36,7 @@
 				<br><br>diepdruk:<br>
 				<li>gravures</li>
 				<li>sjabloondruk</li><br>
-				Een druktechniek vraagt om vermenigvuldiging - een sjabloon kun je "vele" malen gebruiken. Mijn sjabloontechniek komt tot stand door knippen, snijden of scheuren. De kleur wordt ingevuld met rollers, tamponeerkwasten of met de vingers (fingerpainting). In workshops heb ik deze techniek aangeboden omdat deze zeer laagdrempelig is. Drukmissers - een vlekje, een vingerafdruk, een uitschietertje - kunnen eenvoudig gecorrigeerd worden.<br>Voor de ondergrond gebruik ik 120-180 grams tekenpapier, zelfgemaakt papier (homemade paper) of karton van pizza- of schoenendoezen en andere verpakkingen. Dit karton valt onder kostenloos materiaal en nodigt uit om kostenloos te werken. 
+				Een druktechniek vraagt om vermenigvuldiging - een sjabloon kun je "vele" malen gebruiken. Mijn sjabloontechniek komt tot stand door knippen, snijden of scheuren. De kleur wordt ingevuld met rollers, tamponeerkwasten of met de vingers (fingerpainting). In workshops heb ik deze techniek aangeboden omdat deze zeer laagdrempelig is. Drukmissers - een vlekje, een vingerafdruk, een uitschietertje - kunnen eenvoudig gecorrigeerd worden.<br>Voor de ondergrond gebruik ik 120-180 grams tekenpapier, zelfgemaakt papier (homemade paper) of karton van pizza- of schoenendoezen en andere verpakkingen. Dit karton valt onder kostenloos materiaal en nodigt uit om kostenloos te werken.
 				<br><br>
 				Met blockprint op water- en/of oliebasis gebruik je rollers voor de geoefende deelnemer. Plakkaatverf onverdund is geschikt voor fingerpainting.<br>Sjablonen geknipt, gescheurd of gesneden van stevig papier -90/100 grams- van week-/maand-/kwartaalbladen geven uitstekende resultaten. Je kunt ook olieverfkrijtjes (wasco) of kleurpotloden gebruiken om sjablonen in te kleuren.<br>Diverse verfsoorten nooit in één werkstuk hanteren. Fingerpainting geeft ook uitstekende resultaten. Schoensmeer is een prima produkt voor fingerpainting. Thuis kan daar eenvoudig mee worden doorgegaan. Bij een workshop kun je deelnemers vragen zelf &eacute;&eacute;n of twee potjes/doosjes schoensmeer mee te nemen. Na be&euml;indiging van de workshop neemt ieder zijn eigen spullen mee en kan thuis verder gaan.
 			</div>
