@@ -9,7 +9,7 @@ function verstopmenu(elmnt)
 document.all(elmnt).style.visibility="hidden"
 }
 </script>
-			<table  width="570px">
+			<table  width="600px">
 				<tr>
 					<td>
 						<a href="http://www.humancreature.nl">Home</a><br/>
@@ -102,7 +102,7 @@ document.all(elmnt).style.visibility="hidden"
 						<a href="http://www.humancreature.nl/Biografie">| Biografie</a><br/>
 					</td>
 					<td>
-						<a href="http://www.humancreature.nl/contact">| Contact</a><br/>
+						<a href="http://www.humancreature.nl/contact.php">| Contact</a><br/>
 					</td>
 			</table>
 

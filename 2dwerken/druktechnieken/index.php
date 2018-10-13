@@ -158,7 +158,8 @@
 				</a>
 
 				<a href="#_" class="lightbox" id="druk1">
-					<img src="zebra.JPG">
+					<img src="zebra.JPG"><br>
+					sjabloondruk, materiaal: olieverf op homemade paper 
 				</a>
 
 				<a href="#_" class="lightbox" id="druk2">
