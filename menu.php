@@ -101,6 +101,9 @@ document.all(elmnt).style.visibility="hidden"
 					<td>
 						<a href="http://www.humancreature.nl/Biografie">| Biografie</a><br/>
 					</td>
+					<td>
+						<a href="http://www.humancreature.nl/contact">| Contact</a><br/>
+					</td>
 			</table>
 
 	</center>
