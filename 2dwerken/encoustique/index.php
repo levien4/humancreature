@@ -31,7 +31,7 @@
 					<img src="1a.jpeg">
 				</a>
 				<a href="#_" class="lightbox" id="enc1">
-					<img src="1a.jpeg">
+					<img src="1a.jpeg"><br>verwarm de tekenplaat op aluminium - verwarmingselement - <br>en schets met was (-krijt) de afbeelding.
 				</a>
 
 				<a href="#enc2" id="galerij">
