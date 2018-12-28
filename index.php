@@ -7,7 +7,7 @@
 <?php print file_get_contents("scripts.php")?>
 </head>
 <body>
-<?php print file_get_contents("https://www.humancreature.nl/analyticstracking.php") ?>
+<?php print file_get_contents("analyticstracking.php") ?>
 <center>
 <div id="container">
 	<div id="header">
@@ -27,7 +27,7 @@
 
 	<div id="content">
 		<center>
-			<?php print file_get_contents("http://www.humancreature.nl/menu.php")?>
+			<?php print file_get_contents("menu.php")?>
 			<div id="info">
 				De mens heeft op allerlei gebied mogelijkheden om in te spelen op eigen levenssituatie of dat van anderen.<br>
 				Die talenten zijn per individu verschillend en soms “onuitputtelijk.”<br>
