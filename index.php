@@ -4,7 +4,7 @@
 <meta name="theme-color" content="rgb(0,0,47)">
 <title>Home</title>
 <link rel="icon" type="image/x-icon" href="favicon.ico">
-<?php print file_get_contents("https://www.humancreature.nl/scripts.php")?>
+<?php print file_get_contents("scripts.php")?>
 </head>
 <body>
 <?php print file_get_contents("https://www.humancreature.nl/analyticstracking.php") ?>
