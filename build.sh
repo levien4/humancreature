@@ -5,3 +5,9 @@ php 2dwerken/druktechnieken/index.php > 2dwerken/druktechnieken/index.html
 php 2dwerken/encoustique/index.php > 2dwerken/encoustique/index.html
 php 2dwerken/fotografie/index.php > 2dwerken/fotografie/index.html
 php 2dwerken/linodruk/index.php > 2dwerken/linodruk/index.html
+php 3dwerken/beeldhouwwerk/index.php > 3dwerken/beeldhouwwerk/index.html
+php 3dwerken/hout/index.php > 3dwerken/hout/index.html
+php 3dwerken/keramiek/index.php > 3dwerken/keramiek/index.html
+php 3dwerken/metaal/index.php > 3dwerken/metaal/index.html
+php 3dwerken/sieraden/index.php > 3dwerken/sieraden/index.html
+php 3dwerken/was/index.php > 3dwerken/was/index.html
