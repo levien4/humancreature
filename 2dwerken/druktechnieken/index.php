@@ -35,10 +35,6 @@
 					<img src="001.jpg">
 				</a>
 
-				<a href="#druk3" id="galerij">
-					<img src="006.jpg">
-				</a>
-
 				<a href="#druk5" id="galerij">
 					<img src="gemengdb.jpg">
 				</a>
@@ -157,17 +153,41 @@
 					<img src="21a.jpg">
 				</a>
 
+				<a href="#druk26" id="galerij">
+					<img src="22b.jpg">
+				</a>
+				<a href="#_" class="lightbox" id="druk26">
+					<img src="22a.jpg">
+				</a>
+
+				<a href="#druk27" id="galerij">
+					<img src="23b.jpg">
+				</a>
+				<a href="#_" class="lightbox" id="druk27">
+					<img src="23a.jpg">
+				</a>
+
+				<a href="#druk28" id="galerij">
+					<img src="24b.jpg">
+				</a>
+				<a href="#_" class="lightbox" id="druk28">
+					<img src="24a.jpg">
+				</a>
+
+				<a href="#druk29" id="galerij">
+					<img src="25b.jpg">
+				</a>
+				<a href="#_" class="lightbox" id="druk29">
+					<img src="25a.jpg">
+				</a>
+
 				<a href="#_" class="lightbox" id="druk1">
 					<img src="zebra.JPG"><br>
-					sjabloondruk, materiaal: olieverf op homemade paper 
+					sjabloondruk, materiaal: olieverf op homemade paper
 				</a>
 
 				<a href="#_" class="lightbox" id="druk2">
 					<img src="001.jpg">
-				</a>
-
-				<a href="#_" class="lightbox" id="druk3">
-					<img src="goedeherder.JPG">
 				</a>
 
 				<a href="#druk4" id="galerij">

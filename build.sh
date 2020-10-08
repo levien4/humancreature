@@ -1,5 +1,6 @@
 php index.php > index.html
 php Biografie/index.php > Biografie/index.html
+php contact.php > contact.html
 php 2dwerken/index.php > 2dwerken/index.html
 php 2dwerken/druktechnieken/index.php > 2dwerken/druktechnieken/index.html
 php 2dwerken/encoustique/index.php > 2dwerken/encoustique/index.html

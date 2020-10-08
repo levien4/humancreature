@@ -102,7 +102,7 @@ document.all(elmnt).style.visibility="hidden"
 						<a href="http://www.humancreature.nl/Biografie">| Biografie</a><br/>
 					</td>
 					<td>
-						<a href="http://www.humancreature.nl/contact.php">| Contact</a><br/>
+						<a href="http://www.humancreature.nl/contact.html">| Contact</a><br/>
 					</td>
 			</table>
 
