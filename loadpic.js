@@ -1,7 +1,7 @@
 
 var obj;
-function loadJSON(){
-  let requestURL = 'data.json';
+function loadJSON(dataurl){
+  let requestURL = dataurl;
   let request = new XMLHttpRequest();
   request.open('GET', requestURL);
   request.responseType = 'text';
