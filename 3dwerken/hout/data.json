@@ -1,8 +1,5 @@
 {"images": [ 
-{"highres": "hout1.jpg", "lowres": "lowres_hout1.jpg", "sub": "Hout"},
-{"highres": "hout2.jpg", "lowres": "lowres_hout2.jpg", "sub": "Hout"},
-{"highres": "hout3.jpg", "lowres": "lowres_hout3.jpg", "sub": "Hout"},
-{"highres": "hout5b.JPG", "lowres": "lowres_hout5b.JPG", "sub": "Wil"},
-{"highres": "houtbewerki", "lowres": "e", "sub": "indenboom.jpg"},
-{"highres": "Hout bewerking speelgoed.JPG", "lowres": "lowres_Hout bewerking speelgoed.JPG", "sub": "Houten raceauto en vrachtwagen"}
+{"highres": "hout1.jpg", "lowres": "lowres_hout1.jpg", "sub": "houten vracht wagen"},
+{"highres": "hout2.jpg", "lowres": "lowres_hout2.jpg", "sub": "race auto van hout"},
+{"highres": "hout3.jpg", "lowres": "lowres_hout3.jpg", "sub": "aanhang wagen van hout"}
 ]}
