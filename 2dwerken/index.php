@@ -19,17 +19,17 @@
 	<div id="center">
 		<div id="slideshow">
 			<div>
-				<img src="http://www.humancreature.nl/encoustique.jpg"  width="100%">
+				<img src="https://www.humancreature.nl/encoustique.jpg"  width="100%">
 			</div>
 		</div>
 	</div>
 
 	<div id="content">
-		<center> 
-			<?php print file_get_contents('http://www.humancreature.nl/menu.php')?>
+		<center>
+			<?php print file_get_contents('https://www.humancreature.nl/menu.php')?>
 			<h3>Omschrijving:</h3>
 			<div id="info">
-				<a href="http://www.humancreature.nl/2dwerken/druktechnieken">Druktechnieken:</a><br>
+				<a href="https://www.humancreature.nl/2dwerken/druktechnieken">Druktechnieken:</a><br>
 				Grafische technieken pur sang:<br><br>hoogdruk:<br>
 				<li>linoleumsnede,</li>
 				<li>collagedruk; indien er andere technieken aan toegevoegd zijn, vallen ze onder <a href="http://www.humancreature.nl/overig">gemengde technieken.</a></li>
