@@ -3,8 +3,9 @@
 <head>
 <title>Metaal</title>
 <?php print file_get_contents("http://www.humancreature.nl/scripts.php")?>
+<script src="https://www.humancreature.nl/loadpic.js"></script>
 </head>
-<body>
+<body onload="loadJSON('https://www.humancreature.nl/3dwerken/metaal/data.json')">
 <?php print file_get_contents("http://www.humancreature.nl/analyticstracking.php")?>
 <center>
 <div id="container">
@@ -27,27 +28,6 @@
 		<center>
 			<?php print file_get_contents("http://www.humancreature.nl/menu.php")?>
 			<div id="galerij">
-				<a href="#met1" id="galerij2">
-					<img src="met1.jpg">
-				</a>
-				<a href="#_" class="lightbox" id="met1">
-					<img src="met1.jpg">
-				</a>
-
-				<a href="#met2" id="galerij2">
-					<img src="met2.JPG">
-				</a>
-				<a href="#_" class="lightbox" id="met2">
-					<img src="met2.JPG">
-					<br>Fishing &nbsp Jing &nbsp Jang
-				</a>
-
-				<a href="#met3" id="galerij">
-					<img src="met3a.jpg">
-				</a>
-				<a href="#_" class="lightbox" id="met3">
-					<img src="met3b.JPG">
-				</a>
 			</div>
 		</center>
 	</div>
