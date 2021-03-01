@@ -3,8 +3,9 @@
 <head>
 <title>Was</title>
 <?php print file_get_contents("http://www.humancreature.nl/scripts.php")?>
+<script src="https://www.humancreature.nl/loadpic.js"></script>
 </head>
-<body>
+<body onload="loadJSON('https://www.humancreature.nl/3dwerken/was/data.json')">
 <?php print file_get_contents("http://www.humancreature.nl/analyticstracking.php") ?>
 <center>
 <div id="container">
@@ -27,19 +28,6 @@
 		<center>
 			<?php print file_get_contents("http://www.humancreature.nl/menu.php")?>
 			<div id="galerij">
-				<a href="#was1" id="galerij">
-					<img src="was2b.jpg">
-				</a>
-				<a href="#_" class="lightbox" id="was1">
-					<img src="was2.jpg">
-				</a>
-					
-				<a href="#was2" id="galerij">
-					<img src="was3b.jpg">
-				</a>
-				<a href="#_" class="lightbox" id="was2">
-					<img src="was3.jpg">
-				</a>
 			</div>
 		</center>
 	</div>
