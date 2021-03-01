@@ -3,8 +3,9 @@
 <head>
 <title>Fotografie</title>
 <?php print file_get_contents("http://www.humancreature.nl/scripts.php")?>
+<script src="https://www.humancreature.nl/loadpic.js"></script>
 </head>
-<body>
+<body onload="loadJSON('https://www.humancreature.nl/2dwerken/fotografie/data.json')">
 <?php print file_get_contents("http://www.humancreature.nl/analyticstracking.php")?>
 <center>
 <div id="container">
