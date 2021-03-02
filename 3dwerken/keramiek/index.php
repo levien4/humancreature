@@ -27,7 +27,7 @@
 	<div id="content">
 		<center>
 			<?php print file_get_contents("http://www.humancreature.nl/menu.php")?>
-			<div id="galerij2">
+			<div id="galerij">
 			</div>
 		</center>
 	</div>
