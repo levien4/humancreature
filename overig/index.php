@@ -5,7 +5,6 @@
 <?php print file_get_contents("http://www.humancreature.nl/scripts.php")?>
 </head>
 <body>
-<?php print file_get_contents("http://www.humancreature.nl/analyticstracking.php")?>
 <center>
 <div id="container">
 	<div id="header">

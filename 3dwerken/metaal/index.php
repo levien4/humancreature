@@ -6,7 +6,6 @@
 <script src="https://www.humancreature.nl/loadpic.js"></script>
 </head>
 <body onload="loadJSON('https://www.humancreature.nl/3dwerken/metaal/data.json')">
-<?php print file_get_contents("http://www.humancreature.nl/analyticstracking.php")?>
 <center>
 <div id="container">
 	<div id="header">

@@ -7,7 +7,6 @@
 <?php print file_get_contents("scripts.php")?>
 </head>
 <body>
-<?php print file_get_contents("analyticstracking.php") ?>
 <center>
 <div id="container">
 	<div id="header">
