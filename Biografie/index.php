@@ -43,7 +43,7 @@
 				Tentoonstellingen:
 				<li>keramiek				 		- 	Nieuw Lekkerland</li>
 				<li>keramiek				 		- 	Hardenberg</li>
-				<li>fotografie Eiertikken	 		 	- 	Gemeentehuis Ommen</li>
+				<li><a href="http://www.humancreature.nl/2dwerken/fotografie">fotografie</a> Eiertikken	 		 	- 	Gemeentehuis Ommen 1995</li>
 				<li>fotografie, keramiek en druktechn.	 		- 	“Het Baken” Ommen, Steenwijk</li>
 				<li>fotografie				 	- 	Kleine Kerk Steenwijk</li>
 				<li>druktechnieken & keramiek		 		- 	GH Zwolle (diverse locaties)</li>
@@ -67,7 +67,7 @@
 				Vrijwilligers werk:<br>
 				<li>Reisleider GRV					-	1987 Joegoslavië/Venetië</li>
 				<li>Stichting Kunst & Cultuur Kleine Kerk Steenwijk 	-	voorzitter St. K&CK Steenwijk 1998-2009</li>
-				<li>Weeshuis:Maseru Lesotho				-	2004/2005 Creatief werken</li>
+				<li>Weeshuis: Maseru Lesotho				-	2004/2005 Creatief werken</li>
 				<li>Juvenile Training Centre 				-	2009 gastcollege trainers/pupils YfC – Maseru, Lesotho</li>
 				<li>Disciple Training School  				-	gastcolleges 2008/2009 YwaM (Maseru)</li>
 				<li>Youth for Christ, Maseru				-	Shape Day en townshipwork 2008 leiders & jeugdtraining o.l.v. Gert v d Bos e.a.</li>

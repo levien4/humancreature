@@ -180,6 +180,14 @@
 					<img src="25a.jpg">
 				</a>
 
+				<a href="#druk30" id="galerij2">
+					<img src="26b.jpg">
+				</a>
+				<a href="#_" class="lightbox" id="druk30">
+					<img src="26a.jpg"><br>
+					Ontwerp interieur druktechnieken diverse afbeeldingen in druktechnieken in samenwerking met kerkleden
+				</a>
+
 				<a href="#_" class="lightbox" id="druk1">
 					<img src="zebra.JPG"><br>
 					sjabloondruk, materiaal: olieverf op homemade paper
