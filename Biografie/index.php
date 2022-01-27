@@ -62,7 +62,7 @@
 				<li>MULO/MAVO					-	1968-1972 Hardenberg (part-time)</li>
 				<li>GSA-Zwolle					- 	1973-1980 (part-time) Beeldende Vorming</li>
 				<li>GH-Zwolle					- 	1980-1992 afd. hoofd  Propedeuse</li>
-				<li>GH-Zwolle					- 	1980-2000 full time docent</li><br><br>
+				<li>GH-Zwolle					- 	1980-2000 full time docent Expressie vakken</li><br><br>
 
 				Vrijwilligers werk:<br>
 				<li>Reisleider GRV					-	1987 Joegoslavië/Venetië</li>
@@ -71,6 +71,7 @@
 				<li>Juvenile Training Centre 				-	2009 gastcollege trainers/pupils YfC – Maseru, Lesotho</li>
 				<li>Disciple Training School  				-	gastcolleges 2008/2009 YwaM (Maseru)</li>
 				<li>Youth for Christ, Maseru				-	Shape Day en townshipwork 2008 leiders & jeugdtraining o.l.v. Gert v d Bos e.a.</li>
+				<li>Lesotho, Mafeteng  -   Reformed Church opening door DORCAS</li>
 				<li>Workshop druktechnieken 				- 	Meppel 2009 GKv gemeente aktiviteit</li>
 				<li>Workshop druktechnieken				-	Zwartsluis 2010 GKv gemeente aktiviteit</li>
 				<li>Workshop druktechnieken 				- 	Ladybrand 2010 Chr. Jeugdcentrum</li>
