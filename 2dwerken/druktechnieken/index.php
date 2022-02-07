@@ -73,6 +73,7 @@
 				</a>
 				<a href="#_" class="lightbox" id="druk13">
 					<img src="9a.jpg">
+					Uitgave 2012 Jesus stel homself bekend  - (twaalf keer “Ek is” in het evangelie van Johannes) 2012 Prof. dr Rob van Houwelingen – (auteur) en Aldert L. Visser (illustrateur)
 				</a>
 
 				<a href="#druk14" id="galerij">
@@ -80,6 +81,7 @@
 				</a>
 				<a href="#_" class="lightbox" id="druk14">
 					<img src="10a.jpg">
+					Uitgave 2012 Jesus stel homself bekend  - (twaalf keer “Ek is” in het evangelie van Johannes) 2012 Prof. dr Rob van Houwelingen – (auteur) en Aldert L. Visser (illustrateur)
 				</a>
 
 				<a href="#druk15" id="galerij">
@@ -87,6 +89,7 @@
 				</a>
 				<a href="#_" class="lightbox" id="druk15">
 					<img src="11a.jpg">
+					Uitgave 2012 Jesus stel homself bekend  - (twaalf keer “Ek is” in het evangelie van Johannes) 2012 Prof. dr Rob van Houwelingen – (auteur) en Aldert L. Visser (illustrateur)
 				</a>
 
 				<a href="#druk16" id="galerij">
@@ -210,30 +213,37 @@
 
 				<a href="#_" class="lightbox" id="druk6">
 					<img src="2a.jpg">
+					Uitgave 2012 Jesus stel homself bekend  - (twaalf keer “Ek is” in het evangelie van Johannes) 2012 Prof. dr Rob van Houwelingen – (auteur) en Aldert L. Visser (illustrateur)
 				</a>
 
 				<a href="#_" class="lightbox" id="druk7">
 					<img src="3a.jpg">
+					Uitgave 2012 Jesus stel homself bekend  - (twaalf keer “Ek is” in het evangelie van Johannes) 2012 Prof. dr Rob van Houwelingen – (auteur) en Aldert L. Visser (illustrateur)
 				</a>
 
 				<a href="#_" class="lightbox" id="druk8">
 					<img src="4a.jpg">
+					Uitgave 2012 Jesus stel homself bekend  - (twaalf keer “Ek is” in het evangelie van Johannes) 2012 Prof. dr Rob van Houwelingen – (auteur) en Aldert L. Visser (illustrateur)
 				</a>
 
 				<a href="#_" class="lightbox" id="druk9">
 					<img src="5a.jpg">
+					Uitgave 2012 Jesus stel homself bekend  - (twaalf keer “Ek is” in het evangelie van Johannes) 2012 Prof. dr Rob van Houwelingen – (auteur) en Aldert L. Visser (illustrateur)
 				</a>
 
 				<a href="#_" class="lightbox" id="druk10">
 					<img src="6a.jpg">
+					Uitgave 2012 Jesus stel homself bekend  - (twaalf keer “Ek is” in het evangelie van Johannes) 2012 Prof. dr Rob van Houwelingen – (auteur) en Aldert L. Visser (illustrateur)
 				</a>
 
 				<a href="#_" class="lightbox" id="druk11">
 					<img src="7a.jpg">
+					Uitgave 2012 Jesus stel homself bekend  - (twaalf keer “Ek is” in het evangelie van Johannes) 2012 Prof. dr Rob van Houwelingen – (auteur) en Aldert L. Visser (illustrateur)
 				</a>
 
 				<a href="#_" class="lightbox" id="druk12">
 					<img src="8a.JPG">
+					Uitgave 2012 Jesus stel homself bekend  - (twaalf keer “Ek is” in het evangelie van Johannes) 2012 Prof. dr Rob van Houwelingen – (auteur) en Aldert L. Visser (illustrateur)
 				</a>
 			</div>
 		</center>
