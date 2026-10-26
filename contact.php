@@ -27,10 +27,6 @@
 	<div id="content">
 		<center>
 			<?php print file_get_contents("http://www.humancreature.nl/menu.php")?>
-			<div id="info">
-        <!--stukje tekst-->
-        &#x1F4E7 <a href="mailto:al.visser@home.nl">al.visser@home.nl</a>
-			</div>
 		</center>
 	</div>
 </div>
