@@ -98,9 +98,6 @@ document.all(elmnt).style.visibility="hidden"
 						</table>
 
 					</td>
-					<td>
-						<a href="http://www.humancreature.nl/Biografie">| Biografie</a><br/>
-					</td>
 			</table>
 
 	</center>
